@@ -34,7 +34,7 @@ Example
 You can read [example](https://www.usatoday.com/story/tech/2021/11/10/metaverse-what-is-it-explained-facebook-microsoft-meta-vr/6337635001/) on this site
 
 My-other-page
-[Information Text](information-text.md)
+[Information Text](Information-text.md)
 
 
 Thats All Thank you
