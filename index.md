@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## News Item Text
 
-You can use the [editor on GitHub](https://github.com/RaGaNo0/TextNEWS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello Everynyan!! How Are you? Fine Thank you? today i will tell you about News Item Text without further ado let's begin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So what is news item text?
+News item text is a text which informs readers about events of the day. The events are considered newsworthy or important.
 
-### Markdown
+It means if there is an important event that should be known by many people, then this event deserves news. Well, the news text is called the news item text. However, if there are events that people do not deserve, then they are not definitely worth to be news.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Generic Structure of News Item Text
+ Main Events / Newsworthy event(s): it recounts the event in summary form.
+ Elaboration / Background event(s): they elaborate what happened, to whom, in what circumstance
+ Resource of Information (Source) : it contains comments by participants in, witnesses to and authorities expert on the event
 
-- Bulleted
-- List
+# Purpose of News Item Text
+News Item Text is used to inform readers about events of the day which are considered newsworthy or important.
+Or
+– To inform the readers about newsworthy or important events of the day
+– To present information the readers about newsworthy or important events of the day
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Language Feature Of News Item Text
+– Focusing on circumstances (using a simple language in writing the text)
+– Using saying verbs: “….”, She said, informed, told, reported.
+– Sometimes at the beginning of news, the scene is mentioned : Jakarta – … .. / Kuala Lumpur – …
+– Using Past tense in explaining news events. But if it is a fact that until now still happen or still in the form of fact, then can use simple present tense.
+– Short, telegraphic information about story captured in headline
+– Using adverbs: time, place and manner.
+– Uses of material processes to retell the event
 
-[Link](url) and ![Image](src)
-```
+Example
+You can read [example](https://www.usatoday.com/story/tech/2021/11/10/metaverse-what-is-it-explained-facebook-microsoft-meta-vr/6337635001/) on this site
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RaGaNo0/TextNEWS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thats All Thank you
